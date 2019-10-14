@@ -1,0 +1,9 @@
+﻿  FastBinaryExponentiationLongNumbers.cpp
+c:\users\mumzik\source\repos\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mumzik\source\repos\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers.cpp(30): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mumzik\source\repos\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers.cpp(35): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\mumzik\source\repos\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers.cpp(40): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\mumzik\source\repos\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mumzik\source\repos\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mumzik\source\repos\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers\fastbinaryexponentiationlongnumbers.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+  FastBinaryExponentiationLongNumbers.vcxproj -> C:\Users\mumzik\source\repos\FastBinaryExponentiationLongNumbers\Debug\FastBinaryExponentiationLongNumbers.exe
